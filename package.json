@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/mdn/beginner-html-site-styled/issues"
   },
-  "homepage": "https://github.com/mdn/beginner-html-site-styled#readme"
+  "homepage": "https://github.com/mdn/beginner-html-site-styled#readme",
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "eslint-plugin-vue": "^9.4.0"
+  }
 }
